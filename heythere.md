@@ -1,6 +1,6 @@
 # Hello there!
 
-Nathan here. Looks like I've finally learned my way around here! Well, for the most part anyway. Glad I could at least make this thing.
+Nathan here. Looks like I've finally learned my way around GitHub! Well, for the most part anyway. Glad I could at least make this thing.
 
 ### What I've learned so far
 
@@ -397,4 +397,4 @@ Alright, that's all. Thanks for reading, cheers
 .
 
 
-<sub>Man, you really scrolled all the way down here just to find this small text I learned how to make. Shows you care. Love ya, have a nice day :)</sub>
+<sub>Man, you really scrolled all the way down here just to find this small text I learned how to make. Love ya, have a nice day :)</sub>
