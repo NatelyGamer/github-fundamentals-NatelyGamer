@@ -9,8 +9,8 @@ I can also quote myself. Here, look-
 
 > I can also quote myself.
 
-See? Cool, right? Maybe not. Anyways, I also learned how to pull, clone, and commit repositories through my painful Mac setup. If it ain't broke...
-I also learned how to fork and make pull requests. That's about all I've learned so far.
+See? Cool, right? Maybe not. Anyways, I learned how to pull, clone, and commit repositories through my painful Mac setup. If it ain't broke...
+I also learned how to fork and make pull requests. That's about all I've learned so far on GitHub, but I'm learning more and more every day.
 
 ### What I'm confused about
 
@@ -397,4 +397,4 @@ Alright, that's all. Thanks for reading, cheers
 .
 
 
-<sub>Man, you really scrolled all the way down here just to find this small text I learned how to make. Love ya, have a nice day :)</sub>
+<sub>Man, you really scrolled all the way down here just to find this small text I learned how to make. Love you Prof, have a nice day :)</sub>
